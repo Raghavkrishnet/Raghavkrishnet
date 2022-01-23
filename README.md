@@ -3,8 +3,11 @@
 👩‍💻I am passionate about Web Dev, and I enjoy researching & learning new things exploring new technologies. I tend to discover ways to apply my knowledge.
 
 Its well said that: Learn continually - there's always "one more thing" to learn! - Steve Jobs
+
 👨‍💻Let's Learn and grow
+
 🌱 I’m currently learning programming in Python
+
 📫Connect with me here:
 
 
