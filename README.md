@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavkrishnet&label=Profile%20views&color=0e75b6&style=flat" alt="raghavkrishnet" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krishnetraghav" target="blank"><img src="https://img.shields.io/badge/follow/raghavkrishnet-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="krishnetraghav" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/raghavkrishnet" target="blank"><img src="https://img.shields.io/badge/follow/raghavkrishnet-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="krishnetraghav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/krishnetraghav" target="blank"><img src="https://img.shields.io/twitter/follow/krishnetraghav?logo=twitter&style=for-the-badge" alt="krishnetraghav" /></a> </p>
 
