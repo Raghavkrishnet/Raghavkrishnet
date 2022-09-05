@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-*Front-end Developer* <img alt="coding" width="40" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+*Front-end Developer* <img alt="coding" width="25" src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e478zr1f5p5s6m6gg3pu2jafmmlmd5t4iv0m4xgyif9&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavkrishnet&label=Profile%20views&color=0e75b6&style=flat" alt="raghavkrishnet" /> </p>
 
