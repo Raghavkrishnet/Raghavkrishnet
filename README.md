@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raghav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
+<img align="right" alt="coding" src="https://camo.githubusercontent.com/669ca8b……2f66393…" data-canonical-src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" style="margin-top: 50px;max-width: 100%;display: inline-block;">
 
 *Front-end Developer* <img alt="coding" width="25" src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e478zr1f5p5s6m6gg3pu2jafmmlmd5t4iv0m4xgyif9&rid=giphy.gif&ct=s">
 
