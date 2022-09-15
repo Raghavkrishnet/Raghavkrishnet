@@ -1,7 +1,7 @@
 [![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://raghavkrishnet.github.io)
 <h1 align="center">Hi 👋, I'm Raghav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 *Front-end Developer* <img alt="coding" width="25" src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e478zr1f5p5s6m6gg3pu2jafmmlmd5t4iv0m4xgyif9&rid=giphy.gif&ct=s">
 
