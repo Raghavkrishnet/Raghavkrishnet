@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raghavkrishnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnetraghav" height="30" width="40" /></a>
+<a href="https://twitter.com/raghavkrishnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavkrishnet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghvendra-pratap-1104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghvendra-pratap-1104/" height="30" width="40" /></a>
 <a href="https://instagram.com/raghavkrishnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghavkrishnet" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raghvendraprata5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raghvendraprata5" height="30" width="40" /></a>
