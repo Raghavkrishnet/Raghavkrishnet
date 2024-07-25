@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://raghavkrishnet.github.io/portfolio/](https://raghavkrishnet.github.io/portfolio/)
 - https://disneyplus-clone-ffece.web.app/
-
+- https://netflix-clone-526ae.web.app/
 - ⚡ Fun fact **I want to know everything**
 
 <h3 align="left">Connect with me:</h3>
