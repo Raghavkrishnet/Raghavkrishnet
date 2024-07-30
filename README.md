@@ -29,6 +29,7 @@
 - https://disneyplus-clone-ffece.web.app/
 - https://netflix-clone-526ae.web.app/
 - ⚡ Fun fact **I want to know everything**
+- https://docs.google.com/document/d/1ty4emUnHgRuHFbOHII_z3FQIcV-Y1-alw_dMpFpZ0OM/edit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
